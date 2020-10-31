@@ -1,0 +1,70 @@
+Dipesh,
+
+ 
+
+For now lets get you onboarded with he PMO training, get some calls in with the team. Kunle notably on the service descriptions, and DellSecureWorks (DSW).
+
+ 
+
+Security Governance and Assurance:
+
+Kunle Olowe – Security Architect Consultant (Olowe, Kunle <Kunle.Olowe@wwt.com>)
+Ken Dunham – Senior Security Architect Consultant (Dunham, Kenneth <Kenneth.Dunham@wwt.com>)
+Alex Lundermann – Security Specialist (Lunderman, Alexandria <Alexandria.Lunderman@wwt.com>)
+Worksteam PM – not yet started
+
+Mark McKinstry – not started – est 5th October
+Aman Sood – not started – est 5th October
+Workstream SME
+
+Jerry Clement-Howe (Clement-Howe, Jerry <Jerry.Clement-Howe@wwt.com>)
+John Robey (Robey, John <John.Robey@wwt.com>)
+ 
+
+Key Focus week 1 and 2 Service Descriptions:
+
+Not yet completed: Workstreams 3, 6, 7 and 8
+Workstream 1 service description was created by Kunle and requires a review
+ 
+
+Touch in with each of the guys and get an idea of where we sit in the programme. We can talk more this week, I will put some time in.
+
+ 
+
+Ping either myself or Amy anytime, and we will help where we can as much as we can.
+
+Kevin
+
+IS DS Dedicated PMO
+
+MSSP Capability Workstreams (WS)
+
+q  WS01            Security Operations Programme Management
+
+q  WS02            Cyber Threat Intelligence
+
+q  WS03            Threat & Vulnerability Mgmt.
+
+q  WS04            Security Monitoring & Incident Response (& Digital Forensics)
+
+q  WS05            Offensive Security Operations Testing
+
+q  WS06            Security Tool Support
+
+q  WS07            Threat Detection Operations SOAR (D3)
+
+q  WS08            Threat Detection Operations (SIEM)
+
+q  WS09            Cyber Threat Hunting
+
+q  WS10            Data Loss Prevention      
+
+q  WS11            Cloud Security
+
+
+1. Name of the location, 
+2. Refinitiv sponsor mail - 
+3. Is a tool template available
+
+What is the template, to what is complete
+
